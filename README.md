@@ -8,4 +8,4 @@
         dic['k1'].append(i)
       else:
         dic['k2'].append(i)
-      print(dic)
+    print(dic)
