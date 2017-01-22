@@ -7,5 +7,5 @@
       if i >=66:
         dic['k1'].append(i)
       else:
-        dic['k2'].append(i)
-    print(dic)
+        dic['k2'].append(i)
+      print(dic)
