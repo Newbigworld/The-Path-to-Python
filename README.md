@@ -3,11 +3,11 @@
 # ***一、运算符***
 
 ## 1、 算术运算符
-  加减： + 、- ;
-  乘除：* 、/ ;
-  乘方： **  ;
-  求余：%  ;
-  整除：//  ;
+加减： + 、- ;
+乘除： * 、/ ;
+乘方：*** ;
+求余：% ;
+整除：// ;
 
 ## 2、 比较运算符
 ==、!=或<>、>、<、>=、<=
@@ -18,11 +18,11 @@ and、or、not
 ## 5、字符运算符
 * 原始字符串操作符（r/R）-用于一些不希望转意字符串起左右的地方
 
-      >>> f= open(r'D:\Python\Hello Kitty.py','w')
-      >
-      >>> f= open('D:\\Python\\Hello Kitty.py','w')
-      >
-      >>> f.close()
+        >>> f= open(r'D:\Python\Hello Kitty.py','w')
+        >
+        >>> f= open('D:\\Python\\Hello Kitty.py','w')
+        >
+        >>> f.close()
 * Unicode字符串操作符(u/U)-转换成Unicode字符串
 
 
